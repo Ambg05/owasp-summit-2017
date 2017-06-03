@@ -27,7 +27,7 @@ The Summit, and this Working Session, provide a perfect opportunity to allow the
  - Review data provided and compare with existing Top 10 items
  - (If relevant) create evidence for changes
 
-## Outcome
+## Definition of Done
 
  - Majority of participants to agree on the data set supporting the final Top 10 2017 mappings
  
