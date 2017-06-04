@@ -13,7 +13,7 @@ participants :
 
 ## Why
 
-This Working Session will create a Media Handling Playbook.
+This Working Session will create a Media Handling playbook.
 
 When, not if, a security incident occurs, and whether the incident takes the shape of ransomware, a PII information disclosure, or an OWASP Top 10 exploitation, it is critical to have a clear plan in place for how to handle customers and the media. This is especially true in the context of GDPR notice requirements.
 
@@ -23,7 +23,11 @@ Customers and regulatory bodies tend to be more understanding when communication
 
 ## What
 
- - Create Media Handling Playbook
+ - Create Media Handling playbook
+ 
+## Definition of Done
+
+- Media Handling playbook
 
 ## Who
 
